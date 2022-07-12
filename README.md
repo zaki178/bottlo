@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://i.pinimg.com/564x/b4/07/24/b4072429f70c8a937947209b0ce5960e.jpg" alt="ALPHA BOT" width="100"/>
 
 
 </p>

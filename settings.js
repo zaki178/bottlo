@@ -1,4 +1,4 @@
-contoh fs = require('fs')
+const fs = require('fs')
 const chalk = require('chalk')
 const  { indonesia, english, spanyol} = require(`./language`)
 
@@ -33,7 +33,7 @@ global.myweb2 = "https://linktr.ee/" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62895376867500@','6282180353187','62895376867500','6282180353187@s.whatsapp.net'] //premium user
+global.premium = ['62895376867500@','6282180353187','62895376867500','0'] //premium user
 global.owner = ["62895376867500","622150996855"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "62895376867500" // nomor wa kalian
 global.ownernomerr = "+62895376867500" //nmr wa kalian

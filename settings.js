@@ -13,7 +13,7 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read message
+global.autoread = true // auto read message
 global.autobio = true 
 global.userRegister = true 
 
@@ -37,10 +37,10 @@ global.premium = ['62895376867500@','6282180353187','62895376867500','6282180353
 global.owner = ["62895376867500","622150996855"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "62895376867500" // nomor wa kalian
 global.ownernomerr = "+62895376867500" //nmr wa kalian
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+global.thumbnail = "./image/zaki.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "./image/66a98edc62e6c9ff1687d8ecd9a07403.jpg uni" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
+global.packname = '© ᴋᴀɴɢ ᴋᴏᴍᴘᴏʀ-Mdོ' //sticker wm ubah
 global.author = 'Di Buat Oleh Zaki' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
